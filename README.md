@@ -14,3 +14,7 @@ para criar jogos de VR na Godot através da OpenXR.
 - Iniciar uma conexão airlink do quest 2 no PC através do Meta Quest Link
 - Simplesmente dar play na cena de teste na Godot
 - O jogo inicia diretamente no VR, com tudo funcionando certinho incluindo tracking da cabeça e das mãos
+
+## Próximos passos
+
+- Automatizar o build de apk via Github Actions
