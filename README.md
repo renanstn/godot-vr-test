@@ -17,4 +17,9 @@ para criar jogos de VR na Godot através da OpenXR.
 
 ## Próximos passos
 
-- Automatizar o build de apk via Github Actions
+- [x] Automatizar o build de apk via Github Actions
+
+## CI/CD
+
+Todo o build deste projeto que gera o `.apk` para Meta Quest 2 é feito via Github Actions.
+Dessa forma eu não preciso ficar instalando JDK nem Android Studio em nenhuma máquina minha (sim, a motivação foi preguiça mesmo).
