@@ -49,7 +49,7 @@ jobs:
             export-preset: Android Quest
             export-type: debug
             export-args: --install-android-build-template
-            export-folder: build/android-quest
+            export-folder: Build/
             archive: Android-Quest
             butler-channel: android-quest
 
