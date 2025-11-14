@@ -17,6 +17,7 @@ jobs:
         unzip Godot_v4.4.1-stable_export_templates.tpz
         mkdir android
         unzip -q templates/android_source.zip -d android
+        ls android
 
     - name: export game
       id: export
