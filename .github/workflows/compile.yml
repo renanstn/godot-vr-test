@@ -13,11 +13,10 @@ jobs:
 
     - name: install android build template
       run: |
-        echo "Installing Android Build Template..."
         wget -q https://github.com/godotengine/godot/releases/download/4.4.1-stable/Godot_v4.4.1-stable_export_templates.tpz
         mkdir templates
         unzip Godot_v4.4.1-stable_export_templates.tpz -d templates
-        ls
+        ls templates
 
     - name: export game
       id: export
