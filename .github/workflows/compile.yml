@@ -16,8 +16,8 @@ jobs:
         wget -q https://github.com/godotengine/godot/releases/download/4.4.1-stable/Godot_v4.4.1-stable_export_templates.tpz
         unzip Godot_v4.4.1-stable_export_templates.tpz
         mkdir android
-        unzip -q templates/android_source.zip -d android
-        ls android
+        mkdir android/build
+        unzip -q templates/android_source.zip -d android/build
 
     - name: export game
       id: export
