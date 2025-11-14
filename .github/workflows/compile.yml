@@ -21,7 +21,6 @@ jobs:
         mkdir android
         mkdir android/build
         unzip -q templates/android_source.zip -d android/build
-        ls android/build/gradle/wrapper
 
     - name: export game
       id: export
