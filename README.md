@@ -1,6 +1,6 @@
 # godot-vr-test
 
-Pequeno teste com a Godot 4.3 seguindo o [tutorial básico](https://docs.godotengine.org/en/stable/tutorials/xr/setting_up_xr.html)
+Pequeno teste com a Godot 4.4 seguindo o [tutorial básico](https://docs.godotengine.org/en/stable/tutorials/xr/setting_up_xr.html)
 para criar jogos de VR na Godot através da OpenXR.
 
 **FUNCIONANDO!** 🎉
@@ -22,4 +22,5 @@ para criar jogos de VR na Godot através da OpenXR.
 ## CI/CD
 
 Todo o build deste projeto que gera o `.apk` para Meta Quest 2 é feito via Github Actions.
-Dessa forma eu não preciso ficar instalando JDK nem Android Studio em nenhuma máquina minha (sim, a motivação foi preguiça mesmo).
+Dessa forma eu não preciso ficar instalando JDK nem Android Studio em nenhuma máquina minha
+(sim, a motivação foi preguiça mesmo).
