@@ -4,6 +4,8 @@ Pequeno teste com a Godot 4.4 seguindo o
 [tutorial básico](https://docs.godotengine.org/en/stable/tutorials/xr/setting_up_xr.html)
 para criar jogos de VR na Godot através da OpenXR.
 
+O objetivo era poder testar o jogo no headset Meta Quest 2.
+
 **FUNCIONANDO!** 🎉
 
 ## Pré-requisitos
